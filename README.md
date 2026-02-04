@@ -1,7 +1,7 @@
 # Libft
 
 `libft` is the first foundational C project at 42 School.
-This repository is my **first project in the Common Core Curriculum (Circle 0)**.
+This repository is my **first project from the 42 School Common Core Curriculum (Circle 0)**.
 
 - Author / Intra: `aakhmeto`
 - Repository: [github.com/a-i-nur/libft](https://github.com/a-i-nur/libft)
